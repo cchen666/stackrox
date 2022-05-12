@@ -78,7 +78,8 @@
                 "COMPONENT_VULN_EDGE",
                 "CLUSTER_VULN_EDGE",
                 "NETWORK_ENTITY",
-                "VULN_REQUEST"
+                "VULN_REQUEST",
+                "CLUSTER_HEALTH_STATUS"
               ]
             },
             "collectionFormat": "multi"
@@ -156,7 +157,8 @@
                 "COMPONENT_VULN_EDGE",
                 "CLUSTER_VULN_EDGE",
                 "NETWORK_ENTITY",
-                "VULN_REQUEST"
+                "VULN_REQUEST",
+                "CLUSTER_HEALTH_STATUS"
               ]
             },
             "collectionFormat": "multi"
@@ -228,7 +230,8 @@
                 "COMPONENT_VULN_EDGE",
                 "CLUSTER_VULN_EDGE",
                 "NETWORK_ENTITY",
-                "VULN_REQUEST"
+                "VULN_REQUEST",
+                "CLUSTER_HEALTH_STATUS"
               ]
             },
             "collectionFormat": "multi"
@@ -349,10 +352,11 @@
         "COMPONENT_VULN_EDGE",
         "CLUSTER_VULN_EDGE",
         "NETWORK_ENTITY",
-        "VULN_REQUEST"
+        "VULN_REQUEST",
+        "CLUSTER_HEALTH_STATUS"
       ],
       "default": "SEARCH_UNSET",
-      "title": "Next available tag: 37"
+      "title": "Next available tag: 38"
     },
     "v1SearchOptionsResponse": {
       "type": "object",
